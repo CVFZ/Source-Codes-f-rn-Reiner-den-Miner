@@ -27,3 +27,7 @@ Hashrate? 37 MH/s mit dem Laptop
 - Rentner (im Rentnerheim Lätitia, am 11.01.1938 02:69 geboren KZVladiOstok) 
 - Erfinder des Cisco Packl Traca 
 
+
+Auf diesem Foto ist Herr Reiner neben seinem besten Freund den Mayer zu sehen. Herr Mayer ist auch Fan von RV, HWE und Petautschnig!
+
+![alt text](https://github.com/CVFZ/Source-Codes-f-rn-Reiner-den-Miner/blob/main/IMG_20220221_123934__01.jpg?raw=true) 
